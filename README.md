@@ -13,7 +13,7 @@ i use this on kali ;)
 
 ## Install 
 
-```
+```bash
 # just clone the repo
 
 git clone https://github.com/shifty0g/nslookup-brute
@@ -31,13 +31,13 @@ chmod +x nslookupbrute.sh
 
 ## Useage
 
-```
+```bash
 ./nslookupbrute.sh [DOMAIN] [DNS IP]
 ```
 
 ## Example Output
 
-```
+```bash
 nslookupbrute.sh solar.local 192.168.0.205
 [+] nslookup brute (Domain: solar.local, DNS: 192.168.0.205) => /wordlists/my_wordlists/inf/dns-20k.txt
 ftp.solar.local                172.16.23.29 
