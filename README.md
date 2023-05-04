@@ -16,8 +16,8 @@ i use this on kali ;)
 ```
 # just clone the repo
 
-git clone https://github.com/shifty0g/nslookupbrute
-cd nslookupbrute
+git clone https://github.com/shifty0g/nslookup-brute
+cd nslookup-brute
 
 # set the wordlist to use by editing the file and setting the WORDLIST parameter.. maybe something in seclists? 
 
