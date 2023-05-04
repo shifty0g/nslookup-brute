@@ -50,7 +50,7 @@ www-admin.solar.local          172.16.22.30
 
 ## Bonus 
 
-```
+```bash
 # run it in the background with screen ;)  
 screen -L -Logfile nslookupbrute.log -d -m -S nslookupbrute ./nslookupbrute.sh solar.local 192.168.0.205
 ```
