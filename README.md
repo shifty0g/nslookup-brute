@@ -33,7 +33,6 @@ chmod +x nslookupbrute.sh
 
 ```
 ./nslookupbrute.sh [DOMAIN] [DNS IP]
-./nslookupbrute.sh solar.local 192.168.0.205
 ```
 
 ## Example Output
